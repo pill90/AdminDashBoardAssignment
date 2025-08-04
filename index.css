@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #84c2ff;
+}
+
+#wrapper {
+  min-height: 100vh;
+}
+
+#sidebar-wrapper {
+  width: 250px;
+  min-height: 100vh;
+}
+
+#page-content-wrapper {
+  flex: 1;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-title i {
+  margin-right: 6px;
+}
+
+footer {
+  font-size: 0.875rem;
+}
